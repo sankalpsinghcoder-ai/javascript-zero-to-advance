@@ -1,6 +1,6 @@
 # javascript-zero-to-advance
 
-JavaScript from Zero — Complete Syllabus (Language Only)
+JavaScript from Zero to Advance
 
 Module 0 — Orientation: What JavaScript Is and Why It Exists
 
