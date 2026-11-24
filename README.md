@@ -10,8 +10,8 @@ Module 0 — Orientation: What JavaScript Is and Why It Exists
 - Standardization: ECMA-262, TC39, ECMAScript vs JavaScript
 - Versioning: ES3, ES5 (2009), ES6/ES2015 and yearly releases
 - Where JS runs
-- Engines: V8 (Chrome/Node), SpiderMonkey (Firefox), JavaScriptCore (Safari), Chakra (legacy Edge)
-- Browser runtime vs server runtime — what each adds on top of the language
+- Engines: V8 (Chrome/Node), SpiderMonkey (Firefox), JavaScriptCore (Safari)
+- Browser runtimes, server/standalone runtimes (Node.js, Deno, and Bun), and edge/serverless runtimes (such as Cloudflare Workers)
 - The host environment concept: JS core + host APIs (DOM, fs, fetch, etc.)
 - Interpreted vs JIT-compiled — how V8 actually executes code (baseline + optimizing compiler, deopt)
 - How a JS file gets executed
